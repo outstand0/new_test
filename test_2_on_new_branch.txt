@@ -1,0 +1,4 @@
+This is contents about test_2 file.
+And it is generate on new develop branch.
+
+End.
