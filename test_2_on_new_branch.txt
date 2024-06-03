@@ -1,4 +1,6 @@
 This is contents about test_2 file.
-And it is generate on new develop branch.
+
+we want to change this file
+some information is delete.
 
 End.
