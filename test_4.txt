@@ -1,3 +1,0 @@
-test_4 file add.
-
-it is not important file.
